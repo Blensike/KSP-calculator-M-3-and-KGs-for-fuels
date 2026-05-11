@@ -1,0 +1,6 @@
+{
+  "name": "Oxidizer Ratio Calculator",
+  "description": "An engineering tool to calculate the required amount of oxidizer based on hydrogen flow and amount.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
